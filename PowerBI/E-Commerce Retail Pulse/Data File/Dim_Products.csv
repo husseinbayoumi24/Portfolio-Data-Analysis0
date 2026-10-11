@@ -1,0 +1,66 @@
+﻿ProductID,ProductName,Category,SubCategory
+PRD-101,Smartphones Item 1,Electronics,Smartphones
+PRD-102,Smartphones Item 2,Electronics,Smartphones
+PRD-103,Smartphones Item 3,Electronics,Smartphones
+PRD-104,Smartphones Item 4,Electronics,Smartphones
+PRD-105,Smartphones Item 5,Electronics,Smartphones
+PRD-106,Laptops Item 1,Electronics,Laptops
+PRD-107,Laptops Item 2,Electronics,Laptops
+PRD-108,Laptops Item 3,Electronics,Laptops
+PRD-109,Laptops Item 4,Electronics,Laptops
+PRD-110,Laptops Item 5,Electronics,Laptops
+PRD-111,Accessories Item 1,Electronics,Accessories
+PRD-112,Accessories Item 2,Electronics,Accessories
+PRD-113,Accessories Item 3,Electronics,Accessories
+PRD-114,Accessories Item 4,Electronics,Accessories
+PRD-115,Accessories Item 5,Electronics,Accessories
+PRD-116,Audio Item 1,Electronics,Audio
+PRD-117,Audio Item 2,Electronics,Audio
+PRD-118,Audio Item 3,Electronics,Audio
+PRD-119,Audio Item 4,Electronics,Audio
+PRD-120,Audio Item 5,Electronics,Audio
+PRD-121,Kitchen Item 1,Home Appliances,Kitchen
+PRD-122,Kitchen Item 2,Home Appliances,Kitchen
+PRD-123,Kitchen Item 3,Home Appliances,Kitchen
+PRD-124,Kitchen Item 4,Home Appliances,Kitchen
+PRD-125,Kitchen Item 5,Home Appliances,Kitchen
+PRD-126,Cleaning Item 1,Home Appliances,Cleaning
+PRD-127,Cleaning Item 2,Home Appliances,Cleaning
+PRD-128,Cleaning Item 3,Home Appliances,Cleaning
+PRD-129,Cleaning Item 4,Home Appliances,Cleaning
+PRD-130,Cleaning Item 5,Home Appliances,Cleaning
+PRD-131,Cooling Item 1,Home Appliances,Cooling
+PRD-132,Cooling Item 2,Home Appliances,Cooling
+PRD-133,Cooling Item 3,Home Appliances,Cooling
+PRD-134,Cooling Item 4,Home Appliances,Cooling
+PRD-135,Cooling Item 5,Home Appliances,Cooling
+PRD-136,Men Wear Item 1,Apparel,Men Wear
+PRD-137,Men Wear Item 2,Apparel,Men Wear
+PRD-138,Men Wear Item 3,Apparel,Men Wear
+PRD-139,Men Wear Item 4,Apparel,Men Wear
+PRD-140,Men Wear Item 5,Apparel,Men Wear
+PRD-141,Women Wear Item 1,Apparel,Women Wear
+PRD-142,Women Wear Item 2,Apparel,Women Wear
+PRD-143,Women Wear Item 3,Apparel,Women Wear
+PRD-144,Women Wear Item 4,Apparel,Women Wear
+PRD-145,Women Wear Item 5,Apparel,Women Wear
+PRD-146,Kids Wear Item 1,Apparel,Kids Wear
+PRD-147,Kids Wear Item 2,Apparel,Kids Wear
+PRD-148,Kids Wear Item 3,Apparel,Kids Wear
+PRD-149,Kids Wear Item 4,Apparel,Kids Wear
+PRD-150,Kids Wear Item 5,Apparel,Kids Wear
+PRD-151,Board Games Item 1,Toys & Games,Board Games
+PRD-152,Board Games Item 2,Toys & Games,Board Games
+PRD-153,Board Games Item 3,Toys & Games,Board Games
+PRD-154,Board Games Item 4,Toys & Games,Board Games
+PRD-155,Board Games Item 5,Toys & Games,Board Games
+PRD-156,Action Figures Item 1,Toys & Games,Action Figures
+PRD-157,Action Figures Item 2,Toys & Games,Action Figures
+PRD-158,Action Figures Item 3,Toys & Games,Action Figures
+PRD-159,Action Figures Item 4,Toys & Games,Action Figures
+PRD-160,Action Figures Item 5,Toys & Games,Action Figures
+PRD-161,Educational Item 1,Toys & Games,Educational
+PRD-162,Educational Item 2,Toys & Games,Educational
+PRD-163,Educational Item 3,Toys & Games,Educational
+PRD-164,Educational Item 4,Toys & Games,Educational
+PRD-165,Educational Item 5,Toys & Games,Educational

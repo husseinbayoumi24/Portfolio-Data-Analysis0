@@ -1,0 +1,501 @@
+﻿CustomerID,CustomerName,Gender,CustomerSegment
+1001,Richard Powers,Male,Consumer
+1002,Christian Petersen,Male,Home Office
+1003,Jasmine Peters,Female,Corporate
+1004,Jamie Dunn,Male,Consumer
+1005,Eric Harper,Male,Consumer
+1006,Eric Green,Male,Consumer
+1007,Lindsay Hill,Male,Consumer
+1008,Michael Rodriguez,Male,Home Office
+1009,Michelle Walker,Female,Corporate
+1010,Richard Villa,Male,Corporate
+1011,Cynthia Sanchez,Male,Consumer
+1012,Gabrielle Brown,Male,Home Office
+1013,Travis Montes,Male,Corporate
+1014,Anthony Mcdonald,Male,Consumer
+1015,Frank Green Jr.,Male,Consumer
+1016,Erin Wood,Male,Consumer
+1017,Colleen Williams,Female,Consumer
+1018,Andrew Davies,Male,Consumer
+1019,Brittany Mullins,Female,Consumer
+1020,Nicole Davis,Female,Consumer
+1021,Debra Escobar,Male,Corporate
+1022,Marc Reynolds,Male,Consumer
+1023,Mr. Kyle Daugherty,Female,Consumer
+1024,Isaac Yang,Female,Consumer
+1025,Wanda Foster,Female,Consumer
+1026,Traci Mcdonald,Male,Corporate
+1027,Steven Stevenson,Male,Consumer
+1028,Carrie Olsen,Female,Consumer
+1029,Cody Wilcox,Male,Consumer
+1030,Anna Rogers DVM,Male,Consumer
+1031,Maxwell Mccormick,Female,Corporate
+1032,Travis Cohen,Male,Consumer
+1033,Lauren Butler,Female,Consumer
+1034,Luis Long,Female,Home Office
+1035,Heather Williams,Female,Home Office
+1036,Erica Gonzalez,Male,Corporate
+1037,Tyler Hamilton,Female,Consumer
+1038,Amy Smith,Male,Consumer
+1039,Rebecca Calhoun,Female,Corporate
+1040,Laura Hicks,Male,Consumer
+1041,Bruce Williams,Female,Consumer
+1042,Janet Burgess,Female,Consumer
+1043,Michelle Rodriguez,Male,Consumer
+1044,Matthew Martin,Male,Home Office
+1045,Hannah Johnson,Male,Consumer
+1046,Matthew Garrett,Male,Corporate
+1047,William Arnold,Female,Consumer
+1048,Michael Freeman,Male,Consumer
+1049,Jennifer Serrano,Male,Consumer
+1050,John Weaver,Male,Consumer
+1051,Allen Riley,Female,Home Office
+1052,Daniel Mcgee,Female,Corporate
+1053,Michael Mccoy,Female,Home Office
+1054,Carl Clarke,Female,Home Office
+1055,Michelle Nelson,Male,Consumer
+1056,David Zuniga Jr.,Female,Home Office
+1057,George Wilkinson,Female,Consumer
+1058,Shelly Bailey,Male,Consumer
+1059,John Brown,Female,Consumer
+1060,Alexandra Sanchez,Male,Consumer
+1061,David Mendoza,Male,Consumer
+1062,Donna Hogan,Male,Consumer
+1063,Neil Phillips,Male,Corporate
+1064,Tracy Martin,Female,Consumer
+1065,Stephanie Mitchell,Female,Consumer
+1066,Nicole Love,Female,Consumer
+1067,Susan Barron,Male,Consumer
+1068,Sheri Jackson,Female,Corporate
+1069,Steven Brown,Male,Consumer
+1070,Jeffrey Jones,Male,Home Office
+1071,Jessica Garcia,Male,Corporate
+1072,Erica Brewer,Female,Consumer
+1073,Paul Moore,Female,Consumer
+1074,Mitchell Russell,Female,Corporate
+1075,Michelle Wise MD,Male,Corporate
+1076,Katrina Garcia,Male,Corporate
+1077,Penny Salazar,Female,Corporate
+1078,Sarah Collins,Male,Consumer
+1079,John Davis,Female,Consumer
+1080,Heather Whitney,Female,Consumer
+1081,Gina Goodwin,Female,Home Office
+1082,Ryan Young,Male,Corporate
+1083,Elizabeth May,Female,Consumer
+1084,Mark Nelson,Male,Consumer
+1085,David Martinez,Male,Consumer
+1086,Michelle Knight,Female,Consumer
+1087,Scott Hahn,Female,Corporate
+1088,Lisa Howard,Female,Corporate
+1089,Ryan Harris,Female,Home Office
+1090,Zachary Santana,Male,Consumer
+1091,Kelly Garcia,Male,Consumer
+1092,Donald Mcintyre,Female,Corporate
+1093,Anna Jenkins,Male,Corporate
+1094,Willie Ruiz,Male,Consumer
+1095,James Romero,Male,Corporate
+1096,Laurie Owen,Male,Consumer
+1097,Michael Brooks,Male,Consumer
+1098,Samantha Combs,Female,Consumer
+1099,Scott Lin,Male,Consumer
+1100,Kathleen Ibarra,Female,Consumer
+1101,Christina Cantu,Female,Consumer
+1102,Katherine Sherman,Female,Corporate
+1103,Matthew Ross,Female,Consumer
+1104,Darrell Hartman,Male,Consumer
+1105,Travis White,Male,Home Office
+1106,Chad Rice,Female,Consumer
+1107,Jason Douglas,Female,Consumer
+1108,Nathaniel Phillips,Male,Corporate
+1109,Jonathon Russell,Female,Consumer
+1110,Victoria Reeves,Female,Consumer
+1111,James Glass,Male,Consumer
+1112,Denise Meyer,Female,Consumer
+1113,Jesse Garcia,Male,Home Office
+1114,Monica Mccormick,Female,Corporate
+1115,John Newton,Male,Corporate
+1116,Zachary Burton,Male,Home Office
+1117,Roy Mills,Female,Corporate
+1118,Hannah Harrington,Male,Consumer
+1119,Spencer Taylor,Male,Home Office
+1120,Brian Bailey,Female,Consumer
+1121,Wendy Reese,Male,Corporate
+1122,John Vaughn,Male,Home Office
+1123,William Humphrey,Female,Consumer
+1124,Jennifer Shannon,Female,Consumer
+1125,Julia Ferguson,Male,Consumer
+1126,Kathryn Campbell,Male,Consumer
+1127,Christina Guerra,Female,Corporate
+1128,Mary Watson,Female,Home Office
+1129,Nicholas Johnson,Male,Consumer
+1130,Felicia Osborne,Male,Consumer
+1131,Joseph Rich,Male,Consumer
+1132,Carl Mclaughlin,Male,Consumer
+1133,Thomas Skinner,Male,Consumer
+1134,Amy Kim,Female,Consumer
+1135,Misty Miller DDS,Male,Home Office
+1136,Jose Davis,Male,Consumer
+1137,Tasha Russell,Male,Consumer
+1138,Richard Ellison,Female,Corporate
+1139,Anthony Johnson,Male,Consumer
+1140,Christopher Berry,Female,Home Office
+1141,Whitney Mendez,Female,Home Office
+1142,Sean Flowers,Male,Consumer
+1143,Rachel Ali,Male,Consumer
+1144,Casey Hall,Female,Consumer
+1145,Jennifer Green,Female,Consumer
+1146,Krista Brown,Female,Consumer
+1147,Jose Jones,Female,Corporate
+1148,Todd Proctor,Female,Consumer
+1149,Cynthia Pace,Male,Consumer
+1150,Joanna Peterson,Male,Consumer
+1151,Vincent Miller,Male,Home Office
+1152,David Kirby,Male,Consumer
+1153,Troy Miller,Female,Consumer
+1154,Christopher Murphy,Male,Consumer
+1155,Veronica Gray,Male,Home Office
+1156,Lindsey Mccarthy,Male,Consumer
+1157,Sean Grimes,Male,Corporate
+1158,William Garcia,Male,Corporate
+1159,Steven Gardner,Male,Consumer
+1160,Margaret Sharp,Male,Corporate
+1161,Kristin Kane,Male,Consumer
+1162,Bradley Gomez,Male,Corporate
+1163,Lori Brown,Female,Corporate
+1164,Richard Gordon,Male,Consumer
+1165,Melanie Roberts,Male,Consumer
+1166,Kelli White MD,Female,Corporate
+1167,Tara Davis,Female,Consumer
+1168,Monique Pace,Male,Consumer
+1169,Brooke Patel,Male,Consumer
+1170,Becky Gomez,Female,Consumer
+1171,Danielle Roth,Male,Corporate
+1172,Maurice Miles,Female,Consumer
+1173,Megan Adams,Female,Consumer
+1174,Lisa Gonzales,Male,Consumer
+1175,George Orr,Male,Corporate
+1176,Joseph Kim,Male,Consumer
+1177,Samuel Davis,Female,Corporate
+1178,John Mclean,Female,Consumer
+1179,Melvin James,Female,Home Office
+1180,Christina Vargas,Female,Consumer
+1181,Perry Pineda,Female,Consumer
+1182,Robert Franklin,Male,Consumer
+1183,Bradley Johnson,Male,Home Office
+1184,Kimberly Rodriguez,Male,Home Office
+1185,Jessica Johnson,Female,Consumer
+1186,Allen Clements,Female,Corporate
+1187,John Moore,Male,Corporate
+1188,Regina Figueroa,Male,Consumer
+1189,Sarah Warner,Male,Consumer
+1190,Bill Thompson,Male,Consumer
+1191,Dalton Olson,Female,Consumer
+1192,Brianna Holland,Male,Home Office
+1193,Kevin Lin,Female,Home Office
+1194,Robert Martin,Male,Corporate
+1195,Cynthia Sullivan,Female,Consumer
+1196,Kaitlyn Carter,Female,Consumer
+1197,Stephen Malone,Male,Corporate
+1198,Morgan Robinson,Male,Home Office
+1199,Margaret Rogers,Female,Home Office
+1200,Heidi Moore,Male,Corporate
+1201,Ashley Burton,Male,Corporate
+1202,Frank White,Male,Consumer
+1203,Christopher Lopez,Male,Consumer
+1204,David Stout,Male,Home Office
+1205,Pamela Parker,Male,Corporate
+1206,April Evans,Female,Consumer
+1207,Danielle Whitney,Female,Consumer
+1208,Lisa Ramsey,Female,Corporate
+1209,Jamie Jones,Male,Consumer
+1210,Steven Rollins,Female,Consumer
+1211,Veronica Moon,Male,Consumer
+1212,Michael Oliver,Male,Corporate
+1213,Mrs. Tina Hoffman,Female,Corporate
+1214,Paul Avila,Male,Consumer
+1215,Janice Stone,Female,Corporate
+1216,David Brown,Female,Consumer
+1217,Brooke Smith,Female,Consumer
+1218,Calvin Thompson,Female,Corporate
+1219,Dr. Larry Castillo,Female,Corporate
+1220,Nancy Rojas,Female,Corporate
+1221,Christopher Burke,Male,Corporate
+1222,Curtis Ortiz,Male,Consumer
+1223,Evan Wolf,Female,Consumer
+1224,Katherine Edwards,Male,Consumer
+1225,Joseph Barry,Male,Consumer
+1226,Curtis Noble,Male,Consumer
+1227,Michele Curtis,Female,Home Office
+1228,Phyllis Golden,Male,Consumer
+1229,Carl Herrera,Male,Home Office
+1230,Jason Johnson,Female,Corporate
+1231,Meghan Morales,Male,Corporate
+1232,Robert Short,Male,Consumer
+1233,Jamie Black,Male,Consumer
+1234,Brian White,Male,Consumer
+1235,Hannah Johnson,Male,Consumer
+1236,Claudia Dunn,Male,Corporate
+1237,James Andrade,Male,Consumer
+1238,Melvin Jordan,Female,Consumer
+1239,Brandon Thomas,Male,Corporate
+1240,Lauren Rowe,Male,Consumer
+1241,Dr. Leslie Wright,Male,Home Office
+1242,Natalie Mendoza,Male,Home Office
+1243,James Adams,Female,Home Office
+1244,Kristen Marshall,Female,Consumer
+1245,Ashley Olson,Female,Consumer
+1246,Scott Davis,Male,Home Office
+1247,Mrs. Linda Stevens,Female,Consumer
+1248,Amy Berg,Male,Home Office
+1249,Sarah Ellison,Female,Home Office
+1250,Bryan Mullins,Female,Home Office
+1251,Yolanda Hunter,Male,Consumer
+1252,John Perry,Female,Consumer
+1253,Annette Berry,Female,Home Office
+1254,Katherine Mitchell,Female,Consumer
+1255,Jessica Miles,Male,Consumer
+1256,Joseph Dean,Male,Consumer
+1257,Carrie Mercado,Female,Home Office
+1258,Ronald Morris,Male,Corporate
+1259,Brandi Smith,Male,Consumer
+1260,Jason Marquez,Male,Consumer
+1261,Mr. Eric Turner,Female,Corporate
+1262,Carla Lopez,Male,Home Office
+1263,Bianca Davis,Female,Consumer
+1264,Keith Ruiz,Male,Consumer
+1265,Brian Andrews,Male,Home Office
+1266,Brian Meyer,Female,Corporate
+1267,Ronald Greene,Female,Corporate
+1268,Anthony Daniels,Male,Corporate
+1269,Rachel Cook,Female,Consumer
+1270,Angela Brown,Female,Consumer
+1271,Alexander Spence,Male,Corporate
+1272,Deborah Taylor,Female,Corporate
+1273,Robert Patton,Male,Home Office
+1274,April Lawson,Male,Home Office
+1275,Lori Flores,Female,Consumer
+1276,Lindsey Hawkins,Male,Consumer
+1277,Gail Richard,Male,Corporate
+1278,Michael Walsh,Male,Corporate
+1279,Amy Santiago,Female,Corporate
+1280,Holly Hays,Female,Corporate
+1281,Tracy Daniels MD,Male,Home Office
+1282,Samuel Poole,Female,Consumer
+1283,Susan Barajas,Male,Consumer
+1284,Matthew Gonzalez,Female,Consumer
+1285,Thomas Johnson,Female,Consumer
+1286,Dr. Susan Smith,Female,Consumer
+1287,Jose Robinson,Male,Consumer
+1288,Jeremy Clark,Male,Consumer
+1289,Ruth Eaton,Female,Consumer
+1290,Samuel Sanchez,Female,Consumer
+1291,William Spencer,Male,Consumer
+1292,Brian Thomas,Male,Consumer
+1293,Amanda Brown,Female,Corporate
+1294,Sarah Acosta,Male,Consumer
+1295,Lisa Rodgers,Female,Consumer
+1296,Michael Young,Male,Consumer
+1297,Tina Davenport,Female,Corporate
+1298,Richard Chavez,Female,Consumer
+1299,Nicole Williams,Male,Corporate
+1300,Robert Mcneil,Male,Consumer
+1301,Brandon Fitzgerald,Male,Consumer
+1302,Deborah Parker,Male,Consumer
+1303,Mike Williams,Male,Consumer
+1304,Anita Fox,Female,Corporate
+1305,Tricia Greene,Male,Corporate
+1306,Natasha Montgomery,Female,Home Office
+1307,Megan Ramirez,Male,Consumer
+1308,Nancy Elliott,Male,Consumer
+1309,Derek Smith,Female,Corporate
+1310,Philip Graves,Female,Consumer
+1311,Dr. Raymond Camacho,Male,Consumer
+1312,William Johnson,Female,Consumer
+1313,Marcus Holland,Male,Consumer
+1314,Gary White DDS,Male,Home Office
+1315,Joel Perez,Male,Corporate
+1316,Maria Clay,Female,Corporate
+1317,Hector Vargas,Female,Consumer
+1318,Thomas Erickson,Male,Consumer
+1319,Joshua Galloway,Male,Consumer
+1320,Ricardo Park,Male,Consumer
+1321,Howard Gross,Male,Consumer
+1322,Jesse Trujillo,Female,Corporate
+1323,Craig Swanson,Male,Corporate
+1324,Lindsay Lopez,Male,Consumer
+1325,Kaitlin Maddox,Female,Home Office
+1326,Jessica Bailey,Female,Corporate
+1327,Sharon Hammond,Male,Consumer
+1328,Sara Valencia,Female,Corporate
+1329,Lori Beasley,Male,Consumer
+1330,Amy Powers,Male,Consumer
+1331,Kevin Allen,Female,Consumer
+1332,Lisa Lam,Male,Corporate
+1333,Vincent Garcia,Female,Consumer
+1334,Chad Ellis,Male,Consumer
+1335,Mark Alexander,Male,Consumer
+1336,Jonathan Mcbride,Female,Consumer
+1337,Jillian Richardson,Female,Home Office
+1338,Randy Ramsey,Female,Corporate
+1339,Jerry Morgan,Male,Consumer
+1340,Riley Camacho,Male,Consumer
+1341,Hunter Gamble,Male,Consumer
+1342,Eric Hunter,Male,Consumer
+1343,Curtis Jones,Female,Consumer
+1344,Mary Irwin,Female,Consumer
+1345,John Smith,Female,Consumer
+1346,Eric Graham,Male,Corporate
+1347,Mark Ochoa,Female,Corporate
+1348,Patricia Williams MD,Female,Consumer
+1349,John Hanson,Female,Consumer
+1350,Veronica Mosley,Female,Corporate
+1351,Kevin Perkins,Male,Consumer
+1352,Julian Sims,Male,Home Office
+1353,Christine Bradshaw,Female,Corporate
+1354,Michelle Waters,Male,Consumer
+1355,James Padilla,Female,Consumer
+1356,Amanda Williams,Male,Corporate
+1357,Brandy Bean,Male,Consumer
+1358,Brenda Ruiz,Female,Consumer
+1359,Dominic Foley,Female,Home Office
+1360,Heather Huffman,Female,Consumer
+1361,Gary Powers,Female,Consumer
+1362,Katie Davis,Male,Corporate
+1363,William Owen,Female,Consumer
+1364,Joshua Preston,Male,Consumer
+1365,Diane Moran,Female,Home Office
+1366,Jordan Wallace,Male,Consumer
+1367,Lisa Walker,Female,Home Office
+1368,Derek Davis,Male,Home Office
+1369,Joseph Bowen,Male,Consumer
+1370,Melissa Brooks,Female,Consumer
+1371,Brandon Warren,Female,Consumer
+1372,Joshua Marshall,Male,Consumer
+1373,Laura Stone,Female,Consumer
+1374,Marcus Jones,Female,Corporate
+1375,Austin Anderson,Male,Consumer
+1376,Robin Taylor,Female,Consumer
+1377,Tami Chang,Female,Corporate
+1378,Larry Alvarado,Female,Consumer
+1379,Patricia Simpson,Female,Corporate
+1380,Eric Ruiz,Female,Consumer
+1381,Scott Mcintyre,Female,Consumer
+1382,Matthew English,Male,Corporate
+1383,Willie Jones,Male,Corporate
+1384,Sandra Potter,Female,Home Office
+1385,Madeline Nolan,Female,Corporate
+1386,Anthony Ramos,Male,Corporate
+1387,Christian Davis,Female,Consumer
+1388,Louis Davis,Female,Consumer
+1389,Shaun Salazar,Male,Corporate
+1390,Terry Newton,Female,Corporate
+1391,Sarah Moore PhD,Female,Home Office
+1392,Thomas Dougherty,Male,Consumer
+1393,Jorge Rivera,Female,Consumer
+1394,Tyler Meyer,Female,Corporate
+1395,Ryan Gonzales,Female,Consumer
+1396,Brooke Harris,Female,Home Office
+1397,Lucas Ponce,Female,Home Office
+1398,Clarence Dickson,Male,Consumer
+1399,Mrs. Jamie Howard,Female,Corporate
+1400,Katherine Thompson,Male,Corporate
+1401,Stephanie Allen,Male,Consumer
+1402,Michael Lester,Female,Home Office
+1403,Linda Smith,Female,Consumer
+1404,Lynn Munoz,Male,Corporate
+1405,Gregory Robinson,Male,Consumer
+1406,Sarah Watts,Female,Home Office
+1407,Kari Hernandez,Male,Consumer
+1408,Martha Ramsey,Male,Consumer
+1409,Michael Johnson,Male,Home Office
+1410,David Williams,Male,Consumer
+1411,Sara Spencer,Male,Consumer
+1412,Jonathan Murray,Male,Home Office
+1413,Elizabeth Bush,Female,Home Office
+1414,Philip Elliott,Male,Consumer
+1415,Cody Lee,Female,Corporate
+1416,Patricia Holloway DVM,Female,Consumer
+1417,Douglas Roberts,Male,Consumer
+1418,Kimberly Cunningham,Female,Consumer
+1419,Alicia Thornton,Female,Corporate
+1420,Roy Romero,Female,Corporate
+1421,Austin Lucas,Male,Corporate
+1422,Angela Davis,Male,Corporate
+1423,Jacob Haney,Male,Consumer
+1424,John Moore,Male,Consumer
+1425,Zachary Davidson,Female,Consumer
+1426,Ashley Schneider,Male,Consumer
+1427,Christopher Gonzalez,Male,Consumer
+1428,Dean Russell,Female,Home Office
+1429,Shawn Newton,Male,Consumer
+1430,Shannon Walker,Male,Consumer
+1431,Brian Smith,Male,Consumer
+1432,Courtney Bryan,Female,Corporate
+1433,Susan Sims,Male,Corporate
+1434,Michele Clark,Female,Consumer
+1435,Natalie Ellis,Female,Consumer
+1436,David Martin,Female,Corporate
+1437,Eric Hawkins,Female,Consumer
+1438,Amanda Bruce,Female,Corporate
+1439,Harold Sampson,Male,Corporate
+1440,Mr. Willie Hunter MD,Female,Consumer
+1441,Tyler Carey,Female,Consumer
+1442,Jennifer Hanson,Female,Home Office
+1443,Daniel Frost,Male,Consumer
+1444,Amy Calhoun,Female,Consumer
+1445,Steven Richards,Female,Corporate
+1446,Roger Wong,Male,Home Office
+1447,Nathan Nielsen,Female,Home Office
+1448,Felicia Rasmussen,Female,Corporate
+1449,Brian Parks,Male,Consumer
+1450,Samuel Wright,Female,Consumer
+1451,Kristen Pierce,Male,Corporate
+1452,Ryan Miller,Female,Consumer
+1453,Roy James,Female,Consumer
+1454,Tricia Lee,Female,Home Office
+1455,Timothy Myers,Male,Consumer
+1456,Erin Thompson,Male,Consumer
+1457,Jacqueline Adams,Male,Consumer
+1458,Christopher Pierce,Male,Consumer
+1459,Ann Wiley,Female,Consumer
+1460,Nicholas Brown,Male,Consumer
+1461,Cheyenne Hall,Male,Consumer
+1462,Ashley Garcia,Male,Corporate
+1463,Michael Thomas,Female,Corporate
+1464,Robert Colon,Female,Consumer
+1465,Samantha Lyons,Female,Home Office
+1466,Laurie Murray,Female,Consumer
+1467,Lisa Gordon,Female,Consumer
+1468,Laura Griffin,Male,Home Office
+1469,Barbara Thomas,Male,Consumer
+1470,Jordan Duncan,Female,Home Office
+1471,Karen Lester DDS,Female,Consumer
+1472,Antonio Wells,Male,Home Office
+1473,Rachel Jones,Female,Consumer
+1474,Jessica Jackson,Female,Home Office
+1475,Megan Braun,Male,Consumer
+1476,Jason Myers,Female,Home Office
+1477,Matthew Brooks,Female,Consumer
+1478,Melissa Hahn,Female,Consumer
+1479,Crystal Velez,Female,Home Office
+1480,Brandon Davis,Male,Consumer
+1481,Laura Alvarado,Female,Corporate
+1482,Amanda Atkinson,Male,Corporate
+1483,Dr. Brittany Jimenez,Female,Consumer
+1484,Catherine Cox,Female,Corporate
+1485,Grant Ortega,Female,Consumer
+1486,Jeffery Rivera,Male,Home Office
+1487,Kimberly Lopez,Female,Consumer
+1488,Audrey Clark,Female,Consumer
+1489,Raymond Rodriguez,Female,Home Office
+1490,Theresa Green,Male,Home Office
+1491,Thomas Roberson,Female,Consumer
+1492,Samantha Bolton,Male,Corporate
+1493,Tyler Simpson,Male,Consumer
+1494,Jeffrey Snyder,Female,Consumer
+1495,Samantha Mccullough,Male,Consumer
+1496,Adam Ramos,Male,Consumer
+1497,Mark Baird,Female,Consumer
+1498,Emily Thompson,Male,Consumer
+1499,Mrs. Karen Elliott,Female,Home Office
+1500,Jesse Taylor,Male,Home Office
