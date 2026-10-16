@@ -1,6 +1,6 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Hussein%20Bayoumi&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data%20Analytics%20%7C%20Business%20Intelligence&descSize=17&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=ElHussein%20Bayoumi&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data%20Analytics%20%7C%20Business%20Intelligence&descSize=17&descAlignY=55" />
 
 <a href="https://readme-typing-svg.demolab.com">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Excel+%7C+Power+BI+%7C+SQL+%7C+Python;Data+Cleaning+%26+Business+Insights;Always+Learning+%26+Building" alt="Typing animation" />
@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-Hi! I'm **Hussein Bayoumi**, a Business Administration student at Benha University, Egypt, building my career in Data Analysis and Business Intelligence.
+Hi! I'm **ElHussein Bayoumi**, a Business Administration student at Benha University, Egypt, building my career in Data Analysis and Business Intelligence.
 
 I'm passionate about transforming raw data into useful insights, identifying data quality issues, analyzing business performance, and creating dashboards that help people make better decisions.
 
