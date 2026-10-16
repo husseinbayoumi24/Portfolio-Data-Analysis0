@@ -157,13 +157,21 @@ Understanding workforce metrics.
 
 ---
 
-## 🐍 Contribution Snake
+
+## ⚡ What I'm Working On
 
 <div align="center">
 
-<img width="95%" src="https://raw.githubusercontent.com/husseinbayoumi24/husseinbayoumi24/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+<a href="https://github.com/husseinbayoumi24">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&height=100&lines=Analyzing+Data+%F0%9F%93%8A;Building+Power+BI+Dashboards+%F0%9F%93%88;Writing+SQL+Queries+%F0%9F%97%84%EF%B8%8F;Learning+Python+%F0%9F%90%8D;Turning+Data+Into+Insights+%F0%9F%9A%80" alt="Animated Data Analytics Text" />
+</a>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:06B6D4&height=3&section=header&reversal=false" width="80%" alt="Decorative gradient line"/>
 
 </div>
+
 
 ---
 
